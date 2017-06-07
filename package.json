@@ -1,14 +1,14 @@
 {
-  "name": "bitcore-build-zcash",
+  "name": "bitcore-build-zen",
   "version": "0.5.4",
-  "description": "A helper for common tasks to build bitcore-zcash modules'",
+  "description": "A helper for common tasks to build bitcore-zen modules'",
   "main": "index.js",
   "scripts": {
     "test": "gulp test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/str4d/bitcore-build-zcash"
+    "url": "git://github.com/aayanl/bitcore-build-zen"
   },
   "keywords": [
     "bitcore"
@@ -33,9 +33,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/str4d/bitcore-build-zcash/issues"
+    "url": "https://github.com/aayanl/bitcore-build-zen/issues"
   },
-  "homepage": "https://github.com/str4d/bitcore-build-zcash",
+  "homepage": "https://github.com/aayanl/bitcore-build-zen",
   "dependencies": {
     "brfs": "^1.2.0",
     "browserify": "~13.1.0",
