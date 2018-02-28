@@ -1,14 +1,14 @@
 {
-  "name": "bitcore-build-zen",
+  "name": "bitcore-build-snowgem",
   "version": "0.5.4",
-  "description": "A helper for common tasks to build bitcore-zen modules'",
+  "description": "A helper for common tasks to build bitcore-snowgem modules'",
   "main": "index.js",
   "scripts": {
     "test": "gulp test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/aayanl/bitcore-build-zen"
+    "url": "git://github.com/snowgem/bitcore-build-snowgem"
   },
   "keywords": [
     "bitcore"
@@ -33,9 +33,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aayanl/bitcore-build-zen/issues"
+    "url": "https://github.com/snowgem/bitcore-build-snowgem/issues"
   },
-  "homepage": "https://github.com/aayanl/bitcore-build-zen",
+  "homepage": "https://github.com/snowgem/bitcore-build-snowgem",
   "dependencies": {
     "brfs": "^1.2.0",
     "browserify": "~13.1.0",
